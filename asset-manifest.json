@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/doruklu/static/css/main.5f361e03.chunk.css",
+    "main.js": "/doruklu/static/js/main.326aa687.chunk.js",
+    "main.js.map": "/doruklu/static/js/main.326aa687.chunk.js.map",
+    "runtime-main.js": "/doruklu/static/js/runtime-main.b53ede1d.js",
+    "runtime-main.js.map": "/doruklu/static/js/runtime-main.b53ede1d.js.map",
+    "static/js/2.a54ea5f4.chunk.js": "/doruklu/static/js/2.a54ea5f4.chunk.js",
+    "static/js/2.a54ea5f4.chunk.js.map": "/doruklu/static/js/2.a54ea5f4.chunk.js.map",
+    "index.html": "/doruklu/index.html",
+    "precache-manifest.4897cbba9181db1c4de402e0a259996a.js": "/doruklu/precache-manifest.4897cbba9181db1c4de402e0a259996a.js",
+    "service-worker.js": "/doruklu/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/doruklu/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a54ea5f4.chunk.js.LICENSE.txt": "/doruklu/static/js/2.a54ea5f4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/doruklu/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b53ede1d.js",
+    "static/js/2.a54ea5f4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.326aa687.chunk.js"
+  ]
+}
