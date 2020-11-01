@@ -16,11 +16,11 @@ const Template = (props) => (
     <p className="page-info">
       {props.title}:
     </p>
-    <ul className={props.status}>
+    <ol className={props.status}>
         <li>Task 1</li>
         <li>Task 2</li>
-        <li>Task 3</li>
-    </ul>
+        <li>Task 4</li>
+    </ol>
   </div>
 );
 
